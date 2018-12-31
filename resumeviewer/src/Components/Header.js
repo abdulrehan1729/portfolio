@@ -33,6 +33,7 @@ class Header extends Component {
                  <li><a href="#"><i className="fa fa-twitter"></i></a></li>
                  <li><a href="#"><i className="fa fa-google-plus"></i></a></li>
                  <li><a href="#"><i className="fa fa-linkedin"></i></a></li>
+                 <li><a href="#"><i className="fa fa-github"></i></a></li>
                  <li><a href="#"><i className="fa fa-skype"></i></a></li>
               </ul>
            </div>
